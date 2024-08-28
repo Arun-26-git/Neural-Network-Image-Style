@@ -5,9 +5,11 @@ In this project, you'll be exploring the exciting world of neural style transfer
 
 
 **PROBLEM STATEMENT:**
-Develop a deep learning system using Convolutional Neural Networks (CNNs) to achieve Neural Style Transfer. This system should be able to:
+Develop a deep learning system using Convolutional Neural Networks (CNNs) to achieve Neural Style Transfer.
+This system should be able to:
 
 Separate content and style: Given two images, a content image and a style image, the system needs to learn to differentiate between the semantic content (objects, shapes) in the content image and the artistic style (brushstrokes, color palettes) in the style image.
+
 Generate stylized images: The system should create a new image (generated image) that preserves the content of the content image while adopting the artistic style of the style image.
 
 
